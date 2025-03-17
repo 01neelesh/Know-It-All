@@ -31,6 +31,6 @@ KnowItAll is a fun and interactive quiz application that helps users discover th
 4. Expert Insights: Feature expert advice and tips from various fields (e.g., psychology, education, entertainment) to provide users with actionable guidance.
 ## Screenshots
 
-![Splash Screen](https://drive.google.com/file/d/1mnHAjgq_Ije3Q-wIdcJB-qbuC_XKFLUf/view?usp=drive_link)
+![Splash Screen](https://github.com/01neelesh/Know-It-All/blob/b87f0bae1086c75004fc00f2fd1c180dc718c052/app/src/main/assets/Screenshot%202025-03-17%20143457.png)
 
 ![Quiz Layout](https://drive.google.com/file/d/1syW1-52sSR1tXPsAZWQz2R6vuAg-yZgH/view?usp=drive_link)
