@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia Quiz</string>
+    <string name="title_text">Know It All</string>
+    <string name="question_number">Question 10 / 50</string>
+    <string name="question_text">Question here</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="previous_button"><![CDATA[<< Prev]]></string>
+    <string name="next_button"><![CDATA[Next >>]]></string>
+    <string name="placeholder">Here you are going to see the Questions</string>
+    <string name="formatted_text">Question %d / %d</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect_answer">Incorrect answer</string>
+
+</resources>
